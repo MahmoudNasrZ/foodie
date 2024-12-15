@@ -1,0 +1,16 @@
+input {
+  background-color: #131314;
+  height: 50px;
+  border-radius: 5px;
+  padding: 10px 20px;
+  color: white;
+}
+/* input:focus {
+  outline: 3px solid white;
+} */
+button {
+  border-radius: 5px;
+  padding: 10px 20px;
+  color: white;
+  transition: 0.5s ease-in-out;
+}
